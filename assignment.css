@@ -1,0 +1,31 @@
+body{
+    background-image: url(nature.webp);;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    border-style: solid; 
+    border-top: 2cm;
+    border-bottom: 8cm;
+    border-width: 10px;
+    border-color: blue(255,0,128);
+    text-decoration: dotted;
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    font-size: xx-large;
+    font-style: normal;
+    text-align: justify;
+}
+#field{
+    margin-top: 50px;
+    margin: 10px 20px 30px 40px;
+    margin: 10px 20px 30px;
+    margin: 10px 20px;
+    margin: 10px;
+    border: 2px solid
+    padding-top: 1cm;
+    paddling-bottom: 1cm;
+    
+}
